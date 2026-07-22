@@ -27,25 +27,6 @@ This project leverages Machine Learning to automate beneficiary evaluation by cl
 - Model performance comparison.
 - Interactive Streamlit web application.
 
-  
-### Workflow
-
-Beneficiary Data
-        │
-        ▼
- Data Preprocessing
-        │
-        ▼
- Feature Engineering
-        │
-        ├─────────────┐
-        ▼             ▼
-Classification   Regression
-        │             │
-        ▼             ▼
- Beneficiary      Recommended
-   Category       Aid Amount
-
    
 ##  Technologies Used
 - Python
